@@ -1,0 +1,14 @@
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\bin\Debug\net8.0\FullStackdotnet.exe
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\bin\Debug\net8.0\FullStackdotnet.deps.json
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\bin\Debug\net8.0\FullStackdotnet.runtimeconfig.json
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\bin\Debug\net8.0\FullStackdotnet.dll
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\bin\Debug\net8.0\FullStackdotnet.pdb
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.AssemblyInfoInputs.cache
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.AssemblyInfo.cs
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.csproj.CoreCompileInputs.cache
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.dll
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\refint\FullStackdotnet.dll
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.pdb
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\FullStackdotnet.genruntimeconfig.cache
+D:\auvm\PROYECTOS\FullStackdotnet\FullStackdotnet\obj\Debug\net8.0\ref\FullStackdotnet.dll
