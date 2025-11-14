@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/auvm/Projects/FullStackdotnet/FullStackdotnet/FullStackdotnet.csproj": {}
+    "D:\\auvm\\PROYECTOS\\FullStackdotnet\\FullStackdotnet\\FullStackdotnet.csproj": {}
   },
   "projects": {
-    "/Users/auvm/Projects/FullStackdotnet/FullStackdotnet/FullStackdotnet.csproj": {
+    "D:\\auvm\\PROYECTOS\\FullStackdotnet\\FullStackdotnet\\FullStackdotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/auvm/Projects/FullStackdotnet/FullStackdotnet/FullStackdotnet.csproj",
+        "projectUniqueName": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\FullStackdotnet\\FullStackdotnet.csproj",
         "projectName": "FullStackdotnet",
-        "projectPath": "/Users/auvm/Projects/FullStackdotnet/FullStackdotnet/FullStackdotnet.csproj",
-        "packagesPath": "/Users/auvm/.nuget/packages/",
-        "outputPath": "/Users/auvm/Projects/FullStackdotnet/FullStackdotnet/obj/",
+        "projectPath": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\FullStackdotnet\\FullStackdotnet.csproj",
+        "packagesPath": "C:\\Users\\avm23\\.nuget\\packages\\",
+        "outputPath": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\FullStackdotnet\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/auvm/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\avm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
