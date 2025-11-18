@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullStackdotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cd392ed1b7a4a9977d559729edf18f8e6f52cdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ab16553fdc316794bb8ef5910589b23ffdcf3ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullStackdotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullStackdotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

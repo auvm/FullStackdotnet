@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{020C662F-840E-477F-A02B-49B5535CE536}|CamposYPropiedades\\CamposYPropiedades.csproj|d:\\auvm\\proyectos\\fullstackdotnet\\camposypropiedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{020C662F-840E-477F-A02B-49B5535CE536}|CamposYPropiedades\\CamposYPropiedades.csproj|solutionrelative:camposypropiedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F1F4C3-43B3-42D0-AF72-0FC97AF02967}|POO\\POO.csproj|d:\\auvm\\proyectos\\fullstackdotnet\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F1F4C3-43B3-42D0-AF72-0FC97AF02967}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F1F4C3-43B3-42D0-AF72-0FC97AF02967}|POO\\POO.csproj|d:\\auvm\\proyectos\\fullstackdotnet\\poo\\clases\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F1F4C3-43B3-42D0-AF72-0FC97AF02967}|POO\\POO.csproj|solutionrelative:poo\\clases\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +22,32 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\POO\\Clases\\Beer.cs",
+              "RelativeDocumentMoniker": "POO\\Clases\\Beer.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\POO\\Clases\\Beer.cs",
+              "RelativeToolTip": "POO\\Clases\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:50:32.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\CamposYPropiedades\\Program.cs",
-              "RelativeDocumentMoniker": "CamposYPropiedades\\Program.cs",
-              "ToolTip": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\CamposYPropiedades\\Program.cs",
-              "RelativeToolTip": "CamposYPropiedades\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "D:\\auvm\\PROYECTOS\\FullStackdotnet\\POO\\Program.cs*",
+              "RelativeToolTip": "POO\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T19:55:20.209Z",
+              "WhenOpened": "2025-11-18T19:45:39.203Z",
               "EditorCaption": ""
             }
           ]
