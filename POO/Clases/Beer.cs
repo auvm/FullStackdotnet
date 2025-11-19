@@ -41,7 +41,7 @@
         #endregion
 
         #region Métodos
-        public string getInfo()
+        public virtual string getInfo()
         {
             return $"Nombre: {Name} Precio: ${Price}";
         }
